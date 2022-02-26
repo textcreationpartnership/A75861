@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ad general' quarterial' session' pacis dom' regis &amp; reginæ, tent' pro com.' Midd. apud Hicks-Hall in St. John's-Street, in Com. præd' die Mercurii scilicet decimo tertio die Januarii Anno Regni Dom' Gulielmi &amp; Dom' Mariæ nunc Regis et Reginæ Angliæ &amp;c. ...</title>
+            <author>England and Wales. Court of Quarter Sessions of the Peace (Middlesex)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75861</idno>
+            <idno type="STC">Wing A467A</idno>
+            <idno type="STC">ESTC R233678</idno>
+            <idno type="EEBO-CITATION">45789126</idno>
+            <idno type="OCLC">ocm 45789126</idno>
+            <idno type="VID">172440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172440)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2630:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ad general' quarterial' session' pacis dom' regis &amp; reginæ, tent' pro com.' Midd. apud Hicks-Hall in St. John's-Street, in Com. præd' die Mercurii scilicet decimo tertio die Januarii Anno Regni Dom' Gulielmi &amp; Dom' Mariæ nunc Regis et Reginæ Angliæ &amp;c. ...</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Middlesex)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Braddyll,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1691/2 [i.e. 1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sunday legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:172440:1"/>
+            <opener>
+               <dateline>
+                  <hi>Midd'</hi> ſſ.</dateline>
+               <dateline>Ad General' Quarterial' Seſſion' Pacis Dom' <hi>Regis</hi> &amp; <hi>Reginae,</hi> tent' pro Com. <hi>Midd.</hi> apud <hi>Hicks-Hall</hi> in St. <hi>John's-ſtreet,</hi> in Com. praed' <date>die Mercurii ſcilicet decimo tertio die <hi>Januarii</hi> Anno Regni Dom' <hi>Gulielmi &amp;</hi> Dom' <hi>Mariae</hi> nunc Regis et Reginae <hi>Angliae &amp;c.</hi> tertio</date> coram <hi>Jacobo Mundy</hi> Armig' <hi>Carolo Lee</hi> Mil. <hi>Johanne Elwes</hi> Mil. <hi>Johanne Bucknal</hi> Mil. <hi>Lanceloto John<g ref="char:EOLhyphen"/>ſon, Jacobo Cardrow, Henrico Hawley, Rogero Jennings, Roberto Fielding, Nicholao Grice, Ambroſio Iſted, Gulielmo James, Johanne Wilſon, Theophilo Eyton, Thoma Smith, Rober<g ref="char:EOLhyphen"/>to Fairbeard, Georgio Bohun, Gulielmo Underhill, Gulielmo Alleſtry, Johanne Ward, Tho. Rowe</hi> Mil. <hi>Tho. Johnſon, Johe. Robins Rich. Woodward, Tho. Harriot, Tho. Franklin,</hi> Armig' et aliis ſociis ſuis Juſticiar' Dictorum Dom' Regis et Reginae, ad pacem in Com' praed' conſervand' nec non ad diverſ' Felon. Tranſgreſ. et al' Malefact' in eodem Com. perpetrat. audiend. et terminand. aſſign, <hi>&amp;c.</hi>
+               </dateline>
+            </opener>
+            <p>WHereas the <hi>Queens</hi> moſt Excellent Majeſty was graciouſly pleaſed out of Her pious and princely Zeal to Suppreſs the Prophanation of the <hi>Lords-Day,</hi> Drunkenneſs, Swearing and Curſing, and all other lewd, enormous and diſorderly Practices, by Her Pious Letter, bearing Date the 9th day of <hi>July</hi> laſt, did re-mind us of our Duty; and thereby enjoyn the Obſervation of the Laws of the Land now in Force againſt the ſaid Vices: Which was received by this Court with the greateſt Thankful<g ref="char:EOLhyphen"/>neſs and Satisfaction. And in obedience thereunto, We did by Our Order, bearing Date the Tenth day of the ſame Month Command all High-Conſtables, Petty-Conſtables, Church-wardens, Headboroughs, and all other Officers, to be diligent in the Execution of the Laws againſt all ſuch Offenders, and cauſe them to be Convicted, and to undergo the Penalties by the ſaid Laws appointed; and to give account thereof at the ſeveral Petty-Seſſions to be thereafter held for this County, which We then reſolved frequently to hold for that Purpoſe, and hoped from thence that Our Endeavours would have had a good effect. But ſince that, by the raſh and unad<g ref="char:EOLhyphen"/>viſed actings of ſeveral Perſons pretending great Zeal, many illegal and irregular Warrants of Conviction have been iſſued out againſt a multitude of innocent Perſons, for ſuffering Tippling in their Houſes, and Exerciſing their ordinary Callings on the <hi>Lords-day,</hi> without Summoning or Hearing their Defences whereby it might appear, whether they were Works of Charity or Neceſſity; Or duly weighing the Circumſtances of the reſpective Caſes, and thereby condemning the guiltleſs with the guilty, which hath exceedingly hindred the good Purpoſes intended by the ſaid Order and deter<g ref="char:EOLhyphen"/>red ſeveral well-diſpoſed People from Informing, or Acting therein. And foraſmuch as this Court hath from time to time, received many repeated Complaints from divers <hi>Inn-holders, Victuallers</hi> and others, who have greatly ſuffered by ſuch oppreſſive Proceedings. This Court for remedy of the ſaid <hi>Miſchief,</hi> and to the end that ſo religious an <hi>Intention</hi> may not miſcary, doth reſolve to encourage all manner of legal Information, touching the Suppreſſing and Punishment of the ſaid <hi>Vices,</hi> purſuant to their former Order; But are of Opinion, That the Conviction for continuing Tippling, or for Exerciſing their ordinary Cal<g ref="char:EOLhyphen"/>lings on the <hi>Lords-day,</hi> ought not to be made on any Perſon or Perſons before a <hi>Warrant</hi> or <hi>Summons from</hi> a <hi>Juſtice</hi> of <hi>Peace</hi> of this County be firſt had and ſerved on the Perſon accuſed, and Oath made of ſuch Service, that the Perſon ſo accuſed may be firſt heard, and the convicting Juſtice thereby enabled to make a true Judgment of the <hi>Circumſtances</hi> of every ſuch <hi>Accuſation</hi> before he makes his <hi>Conviction.</hi> And for a due Encou<g ref="char:EOLhyphen"/>ragement to all ſuch Informers, <hi>This Court doth hereby unanimouſly agree to deliver all ſuch Summons under their Hands and Seals</hi> Gratis <hi>to any Perſons requiring the ſame.</hi> And for the better Encouragement of all <hi>Church-wardens, Conſtables,</hi> and other <hi>Officers</hi> in ſearching for, and obſerving ſuch <hi>Prophaners</hi> of the <hi>Lords-Day,</hi> We their <hi>Majeſties</hi> ſaid Juſtices of the Peace do hereby further reſolve, that in our ſeveral and reſpe<g ref="char:EOLhyphen"/>ctive <hi>Diviſions,</hi> We will from time to time on <hi>requeſt,</hi> or, <hi>as We ſee occaſion,</hi> go along with them in <hi>Perſon</hi> in our ſeveral <hi>Pariſhes</hi> where we reſide to ſearch the ſeveral <hi>Ale-houſes,</hi> and other <hi>Places</hi> ſuſpected to enter<g ref="char:EOLhyphen"/>tain <hi>People</hi> to <hi>continue Tipling,</hi> or otherwiſe <hi>prophaning the Lords-Day:</hi> And this <hi>Court</hi> doth require all <hi>Con<g ref="char:EOLhyphen"/>ſtables, Headboroughs, Churchwardens</hi> and <hi>Overſeers of the Poor,</hi> and all other their <hi>Majeſties Officers</hi> to attend the ſaid <hi>Service,</hi> and to apply themſelves to the diligent ſearch after ſuch <hi>Offenders</hi> againſt the ſaid <hi>Laws,</hi> and all ſuch <hi>Informers</hi> who gave former <hi>Informations</hi> before any the <hi>Juſtices of the Peace</hi> of this <hi>County</hi> a<g ref="char:EOLhyphen"/>gainſt any ſuch <hi>Perſons</hi> ſo offending (they proceeding in ſuch a <hi>Legal Way</hi> as aforeſaid) shall receive due <hi>Encouragement</hi> and <hi>Protection</hi> from Us in our ſeveral <hi>Diviſions</hi> within this <hi>County:</hi> And ſuch <hi>Victuallers</hi> and <hi>Ale-houſe-keepers,</hi> as shall by the <hi>Examinations</hi> and legal <hi>Methods</hi> and <hi>Proofs</hi> aforeſaid, be duly <hi>convicted</hi> for ſuffering <hi>Perſons</hi> to continue <hi>Tippling</hi> in their <hi>Houſes,</hi> shall not only incur the <hi>Penalty</hi> of 10 <hi>s.</hi> but be Suppreſſed for three Years, according to the <hi>Direction</hi> of the <hi>Stat.</hi> in that Caſe made and provided.</p>
+         </div>
+         <div type="license">
+            <p>And it is Orderd by this Court, That the <hi>Clerk</hi> of the <hi>Peace</hi> for this County, do forthwith cauſe this <hi>Order</hi> to be Printed, and affixed upon the great Gates of <hi>Hick's Hall,</hi> the Church-Doors, and all other Publick Places of each Pariſh, within this County; and to be diſtributed to the ſeveral High-Conſtables within this County, who are Order<g ref="char:EOLhyphen"/>ed by this Court, forthwith to ſend the ſame to the ſeveral Petty Conſtables, Church-wardens, and Headboroughs, within their ſeveral Diviſions, to the end, that Publick Notice may be taken thereof.</p>
+            <closer>
+               <signed>per Cur' <hi>HARCOURT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Braddyll,</hi> 1691/2.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
